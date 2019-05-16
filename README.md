@@ -7,8 +7,8 @@ Specifically, the problem will be narrow down to "given 'Sales_Growth_YoY' for p
 And the performance have to be better than the consensus estimates.
 
 #### Overall Parts:
-- **section 1 👩🏼‍💻 : ** Exploratory Data Analysis
-- **section 2 👨🏻‍🔧 : ** Feature Engineering 
-- **section 3 👩🏻‍🔬 : ** Model Building & Evaluating
+- section 1 👩🏼‍💻 : Exploratory Data Analysis
+- section 2 👨🏻‍🔧 : Feature Engineering 
+- section 3 👩🏻‍🔬 : Model Building & Evaluating
 
-🚀 Ok, so let's start (find detail in )
+🚀 Ok, so let's start (find detail in **Time Series Forecasting .ipynb** )
